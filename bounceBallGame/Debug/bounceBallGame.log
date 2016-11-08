@@ -1,0 +1,20 @@
+﻿  Source.cpp
+c:\users\dink\documents\visual studio 2013\projects\bounceballgame\bounceballgame\menuebutton.h(33): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\dink\documents\visual studio 2013\projects\bounceballgame\bounceballgame\eventshandling.h(49): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\dink\documents\visual studio 2013\projects\bounceballgame\bounceballgame\eventshandling.h(57): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\dink\documents\visual studio 2013\projects\bounceballgame\bounceballgame\eventshandling.h(61): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\dink\documents\visual studio 2013\projects\bounceballgame\bounceballgame\eventshandling.h(65): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\dink\documents\visual studio 2013\projects\bounceballgame\bounceballgame\block.h(23): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\dink\documents\visual studio 2013\projects\bounceballgame\bounceballgame\block.h(24): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\dink\documents\visual studio 2013\projects\bounceballgame\bounceballgame\block.h(27): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\dink\documents\visual studio 2013\projects\bounceballgame\bounceballgame\source.cpp(86): warning C4244: 'argument' : conversion from 'const int' to 'float', possible loss of data
+c:\users\dink\documents\visual studio 2013\projects\bounceballgame\bounceballgame\source.cpp(88): warning C4244: 'argument' : conversion from 'const int' to 'float', possible loss of data
+c:\users\dink\documents\visual studio 2013\projects\bounceballgame\bounceballgame\source.cpp(89): warning C4244: 'argument' : conversion from 'const int' to 'float', possible loss of data
+c:\users\dink\documents\visual studio 2013\projects\bounceballgame\bounceballgame\source.cpp(89): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\dink\documents\visual studio 2013\projects\bounceballgame\bounceballgame\source.cpp(108): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+c:\users\dink\documents\visual studio 2013\projects\bounceballgame\bounceballgame\source.cpp(167): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\dink\documents\visual studio 2013\projects\bounceballgame\bounceballgame\source.cpp(123): warning C4101: 'block_stat' : unreferenced local variable
+c:\users\dink\documents\visual studio 2013\projects\bounceballgame\bounceballgame\source.cpp(236): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+c:\users\dink\documents\visual studio 2013\projects\bounceballgame\bounceballgame\source.cpp(270): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\dink\documents\visual studio 2013\projects\bounceballgame\bounceballgame\source.cpp(289): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+  bounceBallGame.vcxproj -> C:\Users\Dink\Documents\Visual Studio 2013\Projects\bounceBallGame\Debug\bounceBallGame.exe
